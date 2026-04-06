@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-Driven by insights, fueled by data.<br>Skilled in SQL, Excel, data visualization, and Python.<br>I’m a fresher data analyst eager to contribute to a dynamic team and drive business growth.
+Driven by insights, fueled by data.<br>Skilled in SQL, Excel, data visualization, and Python.<br>I’m a data analyst eager to contribute to a dynamic team and drive business growth.
 
 
 ## 🌐 Socials:
